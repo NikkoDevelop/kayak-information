@@ -1,3 +1,5 @@
-# project-hub-information
+# Project Hub - Управление проектами и командами разработки
 
-![ProjectHub](https://github.com/NikkoDevelop/project-hub-information/blob/main/Logo.png)
+![Project Hub Logo](https://github.com/NikkoDevelop/project-hub-information/blob/main/Logo.png))
+
+Project Hub - это веб-приложение, предназначенное для управления командами разработки и проектами. Это мощный инструмент, который помогает компаниям эффективно организовывать рабочие процессы, отслеживать задачи и управлять проектами.
